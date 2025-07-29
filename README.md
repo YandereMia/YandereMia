@@ -1,33 +1,37 @@
-# TermOS 4.0 Backup
+# 👤 About Me
 
-TermOS 4.0 Backup is a fully functional minimalist operating system developed as a personal project. It is written in C and Assembly, focusing on core OS concepts and functionality.
+Hi, I'm **Mia** – a passionate self-taught developer and creator of **[TermOS](https://github.com/Maty12CzSk/TermOS4.0)** – a minimalist operating system built entirely from scratch in C and Assembly.  
+I love digging deep into low-level programming, operating systems, and building tools that feel raw and close to the metal.
 
-## Features
+---
 
-- Basic bootloader implemented in assembly (`boot.s`)
-- Text-mode terminal and simple shell with basic commands (`shell.c`, `commands.c`)
-- Keyboard input handling (`keymapping.c`)
-- Simple text editor inspired by nano (`nano.c`)
-- RAM-based file system (RAMFS) for fast and simple file operations (`ramfs.c`)
-- Command history and utility functions
-- Basic color schemes and terminal output formatting
+## 💻 My Projects
 
-## Current Limitations
+### 🔷 TermOS
+An educational text-based operating system with its own shell, text editor, RAM-based filesystem, alias & history system, and much more.  
+**Latest version:** [TermOS 4.1](https://github.com/Maty12CzSk/TermOS4.0/releases)
 
-- FAT16 file system support is under development and not included in this stable backup version
-- No graphical user interface yet; purely text-mode OS
+---
 
-## Getting Started
+## ⚙️ What I Work With
 
-To build and run TermOS 4.0 Backup:
+- 🖥️ **C / Assembly** — for OS development
+- 🐧 **Linux** (mostly Terminal-based workflows)
+- 🛠️ **Makefiles**, **QEMU**, **GRUB**, **Binutils**
+- 🧪 Sometimes Python for tools and automation
+- 🧠 Currently learning more about hacking, reverse engineering & lower-level system internals
 
-1. Clone the repository  
-2. Use `make` to compile the OS  
-3. Run it easily with `make run`, which will automatically launch the OS in QEMU
+---
 
-```bash
-make
-make run
+## 🌱 My Philosophy
 
-# Maty12CzSk
-# Maty12CzSk
+- I believe in building things from the ground up — no shortcuts, no dependencies if I can help it.
+- I love helping people. I’ve been that “therapist friend” to many, and my mission is to make a difference — whether with code or empathy.
+- I’d rather spend 22 hours straight building something real than talk about it for a week.
+
+---
+
+## 📫 Let's Connect
+
+- 💬 Want to collaborate, talk OS dev, or just share ideas?  
+  Ping me through GitHub issues or [Discord](#) (ask for `Mia`)
