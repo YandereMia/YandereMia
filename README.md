@@ -34,4 +34,4 @@ An educational text-based operating system with its own shell, text editor, RAM-
 ## 📫 Let's Connect
 
 - 💬 Want to collaborate, talk OS dev, or just share ideas?  
-  Ping me through GitHub issues or [Discord](#) (ask for `Mia`)
+  Ping me through GitHub issues or [Discord Community Server](https://discord.gg/zpZhrKU8C9) (ask for `Mia`)
