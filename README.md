@@ -1,37 +1,57 @@
-# 👤 About Me
-
-Hi, I'm **Mia** – a passionate self-taught developer and creator of **[TermOS](https://github.com/Maty12CzSk/TermOS4.0)** – a minimalist operating system built entirely from scratch in C and Assembly.  
-I love digging deep into low-level programming, operating systems, and building tools that feel raw and close to the metal.
-
----
-
-## 💻 My Projects
-
-### 🔷 TermOS
-An educational text-based operating system with its own shell, text editor, RAM-based filesystem, alias & history system, and much more.  
-**Latest version:** [TermOS 4.1](https://github.com/Maty12CzSk/TermOS4.0/releases)
+<h1 align="center">Hey, I’m Mia 👋</h1>
+<p align="center">
+  <em>“I never came this far to sink so low.”</em>
+</p>
 
 ---
 
-## ⚙️ What I Work With
-
-- 🖥️ **C / Assembly** — for OS development
-- 🐧 **Linux** (mostly Terminal-based workflows)
-- 🛠️ **Makefiles**, **QEMU**, **GRUB**, **Binutils**
-- 🧪 Sometimes Python for tools and automation
-- 🧠 Currently learning more about hacking, reverse engineering & lower-level system internals
-
----
-
-## 🌱 My Philosophy
-
-- I believe in building things from the ground up — no shortcuts, no dependencies if I can help it.
-- I love helping people. I’ve been that “therapist friend” to many, and my mission is to make a difference — whether with code or empathy.
-- I’d rather spend 22 hours straight building something real than talk about it for a week.
+## 🖤 About Me
+- 👩‍💻 16 years old, Transwoman, based in Jihočeský kraj (near Tábor)
+- 🌌 Alt-scene / scenecore / emo-rock aesthetic: black & red-black hair, teased, worn-out clothes, pins, chaotic style
+- 🎸 Music lover: Rock, Metal, Nu-Metal, Post-Hardcore, Emo  
+  Favorite bands: Linkin Park, Slipknot, Falling in Reverse, SKARS, Pierce the Veil, FIR, Limp Bizkit, Bullet For My Valentine, Korn, Disturbed, Thousand Foot Krutch
+- 📺 Anime fan: Yuri romance, classic romance
+- 🖤 Quote I live by: “I never came this far to sink so low.”
 
 ---
 
-## 📫 Let's Connect
+## ⚡ Skills & Interests
 
-- 💬 Want to collaborate, talk OS dev, or just share ideas?  
-  Ping me through GitHub issues or [Discord Community Server](https://discord.gg/zpZhrKU8C9) (ask for `Mia`)
+| Category | Tools / Tech |
+|----------|--------------|
+| **Programming** | C, Assembly (first language!), Java, C++, HTML, CSS, JS, Visual Basic, soon Go |
+| **Development** | Full-stack web dev, driver dev, firmware dev, software dev — basically everything that excites me 😎 |
+| **Linux** | Arch Linux expert, DE/WM tweaking, kernel modules |
+| **Cybersecurity** | White Hat hacking, pentesting, Metasploit, Nmap, Wireshark, reverse shells, tunneling |
+| **Theming / Customization** | GTK, icons, fonts, colors, personal chaos aesthetic |
+
+---
+
+## 🎯 Current Focus
+- Becoming a **full-stack developer**: backend + frontend mastery
+- **Cybersecurity** & ethical hacking
+- Deep **Linux tinkering** (Arch-based experiments, kernel hacking)
+- **Programming projects** fueled by music and chaos
+
+---
+
+## 🎧 Current Vibes
+
+---
+
+## 🧬 Personality
+- MBTI: INFP x INFJ
+- Weird, creative, and driven by curiosity
+- Passionate about music, tech, and self-expression
+
+---
+
+## 📫 Connect With Me
+- GitHub: [github.com/yanderemia](https://github.com/yanderemia)
+- Blog / Projects: *(Optional – personal site or portfolio)*
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=FF0000&center=true&vCenter=true&width=600&lines=I+never+came+this+far+to+sink+so+low" alt="Typing SVG" />
+</p>
