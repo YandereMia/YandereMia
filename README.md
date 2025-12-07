@@ -48,7 +48,7 @@
 
 ## 📫 Connect With Me
 - GitHub: [github.com/yanderemia](https://github.com/yanderemia)
-- Blog / Projects: [My Website](yanderemia.github.com)
+- Blog / Projects: [My Website](https://yanderemia.github.com)
 
 ---
 
